@@ -1,4 +1,4 @@
-# Simple-Python
+# Simple-Python | Programming Languages Project
 A simplified version of python interpreter using racket and a simple IDE using python
 
 ## properties
